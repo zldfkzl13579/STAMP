@@ -1,5 +1,5 @@
 # STAMP
-STAMP(Structure Tagging and Analysis Module for Pieces) 음악 구조 분석 및 태깅 AI
+STAMP(Structure Tagging and Analysis Module for Pieces) 음악 구조 태깅 및 분석 모듈
 
 사용법
 전체 실행:
