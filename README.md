@@ -1,6 +1,9 @@
 # STAMP
 STAMP(Structure Tagging and Analysis Module for Pieces) (음악)작품 구조 태깅 및 분석 모듈
 
+필요 라이브러리
+PyTorch, Librosa, NumPy, SciPy, mir_eval, Tqdm, TensorBoard
+
 사용법
 전체 실행:
 & C:/Users/bossc/miniconda3/envs/song_form_env/python.exe d:/ProjectFiles/MyProject/STAMP/main.py 또는 --mode all
@@ -36,6 +39,9 @@ MYPROJECT/
 │           └── 432/
 │               └── parsed/
 │                   └── 432.txt
+│
+├── models/
+│   └── best_model.pthsongform_recognition
 │
 └── STAMP
     ├── src/
